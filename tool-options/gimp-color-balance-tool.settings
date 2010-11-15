@@ -1,0 +1,32 @@
+# settings
+
+(GimpColorBalanceConfig "2010-09-08 19:08:53"
+    (range shadows)
+    (cyan-red 0.000000)
+    (magenta-green 0.000000)
+    (yellow-blue 0.000000)
+    (range midtones)
+    (cyan-red 0.000000)
+    (magenta-green 0.094631)
+    (yellow-blue 0.000000)
+    (range highlights)
+    (cyan-red 0.000000)
+    (magenta-green 0.100000)
+    (yellow-blue 0.000000)
+    (preserve-luminosity yes))
+(GimpColorBalanceConfig "2010-09-08 18:00:54"
+    (range shadows)
+    (cyan-red 0.090000)
+    (magenta-green 0.000000)
+    (yellow-blue -0.090000)
+    (range midtones)
+    (cyan-red 0.090000)
+    (magenta-green 0.000000)
+    (yellow-blue -0.090000)
+    (range highlights)
+    (cyan-red 0.090000)
+    (magenta-green 0.000000)
+    (yellow-blue -0.090000)
+    (preserve-luminosity yes))
+
+# end of settings

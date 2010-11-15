@@ -1,0 +1,20 @@
+# settings
+
+(GimpBrightnessContrastConfig "2010-11-08 18:23:13"
+    (time 1289269393)
+    (brightness 0.000000)
+    (contrast 0.078740))
+(GimpBrightnessContrastConfig "2010-11-08 18:10:14"
+    (time 1289268614)
+    (brightness -0.078740)
+    (contrast 0.078740))
+(GimpBrightnessContrastConfig "2010-09-08 19:05:03"
+    (time 1283997903)
+    (brightness 0.157480)
+    (contrast 0.067093))
+(GimpBrightnessContrastConfig "2010-09-08 19:00:39"
+    (time 1283997639)
+    (brightness 0.233760)
+    (contrast 0.078740))
+
+# end of settings
